@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PetCare Hub: Bản đồ & Cửa hàng Thú cưng",
+  "description": "Ứng dụng toàn diện cho chủ thú cưng với bản đồ tương tác, gợi ý lộ trình thông minh và đề xuất thức ăn bằng AI dựa trên hồ sơ thú cưng.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
